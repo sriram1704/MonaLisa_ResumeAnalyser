@@ -3,7 +3,6 @@
 ![Python](https://img.shields.io/badge/Python-3.7%2B-blue)
 ![Flask](https://img.shields.io/badge/Flask-2.3.2-green)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-1.3.0-orange)
-![License](https://img.shields.io/badge/License-MIT-yellow)
 
 MonaLisa Resume Assistant is a web application designed to help job seekers match their resumes with job descriptions. The application uses a pre-trained machine learning model to analyze the relevance of a resume for a specific job description and provides a match score.
 
