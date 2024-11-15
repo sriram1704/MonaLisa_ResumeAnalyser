@@ -48,3 +48,28 @@ First, clone this repository to your local machine using Git:
 ```bash
 git clone https://github.com/yourusername/mona-lisa-resume-assistant.git
 cd mona-lisa-resume-assistant
+
+
+### Step 1: Clone the Repository
+First, clone this repository to your local machine using Git:
+```bash
+git clone https://github.com/yourusername/mona-lisa-resume-assistant.git
+cd mona-lisa-resume-assistant
+
+### Step 1: Clone the Repository
+First, clone this repository to your local machine using Git:
+```bash
+git clone https://github.com/yourusername/mona-lisa-resume-assistant.git
+cd mona-lisa-resume-assistant
+
+### Step 1: Clone the Repository
+First, clone this repository to your local machine using Git:
+```bash
+git clone https://github.com/yourusername/mona-lisa-resume-assistant.git
+cd mona-lisa-resume-assistant
+
+### Step 1: Clone the Repository
+First, clone this repository to your local machine using Git:
+```bash
+git clone https://github.com/yourusername/mona-lisa-resume-assistant.git
+cd mona-lisa-resume-assistant
