@@ -48,7 +48,3 @@ The core of this project is a machine learning model that uses **Natural Languag
 2. **Text Vectorization**: Uses `TfidfVectorizer` from `scikit-learn` to convert text into numerical vectors.
 3. **Cosine Similarity**: Calculates the similarity score between the resume and job description.
 4. **Classification**: The model categorizes the resume into domains (e.g., Data Science, Software Engineering).
-
----
-
-## 📁 Project Structure
