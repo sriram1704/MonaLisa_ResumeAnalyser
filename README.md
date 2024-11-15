@@ -33,3 +33,18 @@ The core of this project is a machine learning model that uses **Natural Languag
 2. **Text Vectorization**: Uses `TfidfVectorizer` from `scikit-learn` to convert text into numerical vectors.
 3. **Cosine Similarity**: Calculates the similarity score between the resume and job description.
 4. **Classification**: The model categorizes the resume into domains (e.g., Data Science, Software Engineering).
+
+---
+
+## 🛠️ Installation and How to Run the Project
+
+### Prerequisites
+- **Python 3.7+** must be installed on your system.
+- **pip** (Python package installer) should be set up.
+- **Git** (for cloning the repository).
+
+### Step 1: Clone the Repository
+First, clone this repository to your local machine using Git:
+```bash
+git clone https://github.com/yourusername/mona-lisa-resume-assistant.git
+cd mona-lisa-resume-assistant
