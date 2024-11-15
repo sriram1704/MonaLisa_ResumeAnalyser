@@ -48,28 +48,29 @@ First, clone this repository to your local machine using Git:
 ```bash
 git clone https://github.com/yourusername/mona-lisa-resume-assistant.git
 cd mona-lisa-resume-assistant
-
-
-### Step 1: Clone the Repository
-First, clone this repository to your local machine using Git:
-```bash
-git clone https://github.com/yourusername/mona-lisa-resume-assistant.git
-cd mona-lisa-resume-assistant
+```
 
 ### Step 1: Clone the Repository
 First, clone this repository to your local machine using Git:
 ```bash
 git clone https://github.com/yourusername/mona-lisa-resume-assistant.git
 cd mona-lisa-resume-assistant
-
-### Step 1: Clone the Repository
-First, clone this repository to your local machine using Git:
+```
+### Step 2: Install Required Dependencies
+Ensure you are in the project directory, then install the dependencies using:
 ```bash
-git clone https://github.com/yourusername/mona-lisa-resume-assistant.git
-cd mona-lisa-resume-assistant
-
-### Step 1: Clone the Repository
-First, clone this repository to your local machine using Git:
+pip install -r requirements.txt
+```
+### Step 3:  Download the Pre-trained Model Files
+Ensure that the following files are present in your project directory:
 ```bash
-git clone https://github.com/yourusername/mona-lisa-resume-assistant.git
-cd mona-lisa-resume-assistant
+resume_matcher_model.pkl
+vectorizer.pkl
+If these files are not included, download them from the project repository.
+```
+### Step 4: Run the Flask Application
+Start the Flask server by running
+```bash
+python app.py
+
+```
